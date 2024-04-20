@@ -1,6 +1,17 @@
 
-![jefferson-mwatati](https://github.com/jefftizo/jefftizo/assets/59502483/57667a2c-dff7-4f82-bb7b-1b6117d713d9)
+![](https://github.com/jefftizo/jefftizo/blob/main/jefferson-mwatati.png)
 
+<div id="header" align="center">
+  
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jefferson-mwatati/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+  
+</div>
+
+---
 ### Hi there 👋
 
 
