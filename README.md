@@ -22,7 +22,31 @@
 
 ---
 
-## Tools: <div>
+# Skills: <div>
+### Data Analytics
+- **Programming Languages:** R, Python 
+- **Data Management:** SQL, GitHub
+- **Data Analysis Tools:** Excel, Tableau, BigQuery, Power BI
+
+### Technical Skills
+- Analytical Thinking: Strong Analytical Skills, Pattern Recognition
+- Database Management: Relational Database Management
+- Spreadsheets & Data Visualization: Proficiency with Spreadsheets, Data Visualization Skills
+- System Analysis & Design
+
+### Networking & Security
+- Security Operations: Incident Response, Security Monitoring, Vulnerability Management, Security Information and Event Management (SIEM)
+- Penetration Testing & Vulnerability Assessment: Penetration Testing, Vulnerability Assessment, Vulnerability Scanning
+- Security Engineering: Linux Kernel, Kali Linux, Fedora Server, Malware Analysis, Reverse Engineering, Security Research, Cryptography, Ethical Hacking
+- Network Security: Internet Protocol Suite (TCP/IP), Firewalls
+- Security Frameworks & Standards: ISO 27001, NIST
+- Cloud Security: Cloud Security
+- Threat Intelligence: Cyber Threat Intelligence (CTI), Cybersecurity
+- Application Security: Application Security
+
+---
+
+# Tools: <div>
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/> </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/> </a>
