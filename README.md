@@ -1,9 +1,5 @@
 
-
-![Uploading jefferson mwatati.png…]()
-
-
-
+![jefferson-mwatati](https://github.com/jefftizo/jefftizo/assets/59502483/57667a2c-dff7-4f82-bb7b-1b6117d713d9)
 
 ### Hi there 👋
 
