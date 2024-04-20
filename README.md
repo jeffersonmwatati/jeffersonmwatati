@@ -29,20 +29,20 @@
 - **Data Analysis Tools:** Excel, Tableau, BigQuery, Power BI
 
 ### Technical Skills
-- Analytical Thinking: Strong Analytical Skills, Pattern Recognition
-- Database Management: Relational Database Management
-- Spreadsheets & Data Visualization: Proficiency with Spreadsheets, Data Visualization Skills
-- System Analysis & Design
+- **Analytical Thinking:** Strong Analytical Skills, Pattern Recognition
+- **Database Management:** Relational Database Management
+- **Spreadsheets & Data Visualization:** Proficiency with Spreadsheets, Data Visualization Skills
+- **System Analysis & Design**
 
 ### Networking & Security
-- Security Operations: Incident Response, Security Monitoring, Vulnerability Management, Security Information and Event Management (SIEM)
-- Penetration Testing & Vulnerability Assessment: Penetration Testing, Vulnerability Assessment, Vulnerability Scanning
-- Security Engineering: Linux Kernel, Kali Linux, Fedora Server, Malware Analysis, Reverse Engineering, Security Research, Cryptography, Ethical Hacking
-- Network Security: Internet Protocol Suite (TCP/IP), Firewalls
-- Security Frameworks & Standards: ISO 27001, NIST
-- Cloud Security: Cloud Security
-- Threat Intelligence: Cyber Threat Intelligence (CTI), Cybersecurity
-- Application Security: Application Security
+- **Security Operations:** Incident Response, Security Monitoring, Vulnerability Management, Security Information and Event Management (SIEM)
+- **Penetration Testing & Vulnerability Assessment:** Penetration Testing, Vulnerability Assessment, Vulnerability Scanning
+- **Security Engineering:** Linux Kernel, Kali Linux, Fedora Server, Malware Analysis, Reverse Engineering, Security Research, Cryptography, Ethical Hacking
+- **Network Security:** Internet Protocol Suite (TCP/IP), Firewalls
+- **Security Frameworks & Standards:** ISO 27001, NIST
+- **Cloud Security:** Cloud Security
+- **Threat Intelligence:** Cyber Threat Intelligence (CTI), Cybersecurity
+- **Application Security:** Application Security
 
 ---
 
