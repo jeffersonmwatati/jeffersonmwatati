@@ -22,7 +22,7 @@
 
 ---
 # Skills: <div>
-### Networking & Security
+### Networking & CyberSecurity
 - **Security Operations:** Incident Response, Security Monitoring, Vulnerability Management, Security Information and Event Management (SIEM)
 - **Penetration Testing & Vulnerability Assessment:** Penetration Testing, Vulnerability Assessment, Vulnerability Scanning
 - **Security Engineering:** Linux Kernel, Kali Linux, Fedora Server, Malware Analysis, Reverse Engineering, Security Research, Cryptography, Ethical Hacking
