@@ -15,7 +15,7 @@
 
 # Hi there 👋, My name is Mr. Jefferson Mwatati
 - 🔭 I’m currently a Lecturer.
-- 🌱 I’m currently learning, how to integrate **Cybersecurity** and **Data Analytics** to **optimize business processes**.
+- 🌱 I’m currently learning, how to integrate **Cybersecurity** and **Data Analytics** to **optimize business processes and security**.
 - 👯 I’m looking to collaborate in solving industry/business problems.
 - 💬 Ask me about Cybersecurity and Data Analytics.
 - ⚡ Fun fact: I love reading self-development books and visiting new places.
