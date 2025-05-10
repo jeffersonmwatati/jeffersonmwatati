@@ -19,6 +19,7 @@
 - 👯 I’m looking to collaborate in solving industry/business problems.
 - 💬 Ask me about Cybersecurity and Data Analytics.
 - ⚡ Fun fact: I love reading self-development books and visiting new places.
+- **Contacts:** [click here to get my contacts](https://github.com/jeffersonmwatati/jeffersonmwatati/blob/f3d2d8e6a84b9c545fb7ac5a32e2bc77c232bb3b/contacts.md) 
 
 ---
 # Skills: <div>
