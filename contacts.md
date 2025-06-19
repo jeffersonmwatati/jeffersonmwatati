@@ -11,7 +11,6 @@
 - **Name:** Mr. Jefferson Mwatati  
 - **Phone/WhatsApp:** [+254 710 719 042](tel:+254710719042)  
 - **Email:** [jeffersonmwatati777@gmail.com](mailto:jeffersonmwatati777@gmail.com)  
-- **Address:** P.O. Box 171-80305, Mwatate, Taita, Kenya  
 
 ---
 
