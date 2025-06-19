@@ -3,7 +3,7 @@
 ---
 
 > **Kindly use my contacts responsibly.**  
-> Feel free to reach out for anything — business, consultation, conference presentations, collaborations, or training discussions.  
+> Feel free to reach out for — business, consultation, conference presentations, collaborations, or training discussions.  
 > **No spamming allowed.**
 
 ### 📇 Contact Information
